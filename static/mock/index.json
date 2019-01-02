@@ -1,0 +1,107 @@
+{
+    "ret": true, 
+    "data": {
+        "swiperList": [
+            {
+                "id": "001", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/12/a100ed94e5ea3102.jpg_750x200_03956e08.jpg"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/f5/ea83238744f31102.jpg_750x200_73b8477c.jpg"
+            }
+        ], 
+        "iconList": [
+            {
+                "id": "001", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "003", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "004", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "005", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "006", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "007", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "008", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "009", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", 
+                "desc": "景点门票"
+            }, 
+            {
+                "id": "0010", 
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", 
+                "desc": "景点门票"
+            }
+        ], 
+        "recommendList": [
+            {
+                "id": "0001", 
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201406/23/6a12f3746bdb338390706f3d7ac34f87.jpg_200x200_86db3cde.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            }, 
+            {
+                "id": "0002", 
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201406/23/6a12f3746bdb338390706f3d7ac34f87.jpg_200x200_86db3cde.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            }, 
+            {
+                "id": "0003", 
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201406/23/6a12f3746bdb338390706f3d7ac34f87.jpg_200x200_86db3cde.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            }, 
+            {
+                "id": "0004", 
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201406/23/6a12f3746bdb338390706f3d7ac34f87.jpg_200x200_86db3cde.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            }
+        ], 
+        "weekendList": [
+            {
+                "id": "0001", 
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            },
+            {
+                "id": "0002", 
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg", 
+                "title": "千岛湖白云溪漂流", 
+                "desc": "千岛湖白云溪漂流千岛湖白云溪溪漂流"
+            }
+        ]
+    }
+}
